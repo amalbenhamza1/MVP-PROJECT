@@ -1,0 +1,26 @@
+[
+    {
+        "id":1 ,
+        "title":"The Getting of Wisdom",
+        "author":"Henry Handel Richardson",
+        "createdAt":1910
+    },
+    {
+        "id":2 ,
+        "title":"Lonesome Places",
+        "author":"August Derleth",
+        "createdAt":1962
+    },
+    {
+        "id":3 ,
+        "title":"The Doors of Perception",
+        "author":"Aldous Huxley",
+        "createdAt":1954
+    },
+    {
+        "id":4 ,
+        "title":"All Passion Spent",
+        "author":"Vita Sackville-West",
+        "createdAt":1931
+    }
+]
